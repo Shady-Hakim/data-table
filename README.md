@@ -4,7 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+At first make sure to create .env file and put the base URL as following
+"REACT_APP_URL=https://run.mocky.io/v3"
+
+Then you can run:
+
+### `npm install`
+
+Installs the libraries and packages which are used in the project
 
 ### `npm start`
 
